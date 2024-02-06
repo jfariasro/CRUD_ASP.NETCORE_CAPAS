@@ -1,0 +1,12 @@
+C:\Users\Andres\Desktop\C#\appCrudWeb\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+C:\Users\Andres\Desktop\C#\appCrudWeb\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Andres\Desktop\C#\appCrudWeb\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Andres\Desktop\C#\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\C#\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\C#\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\C#\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Andres\Desktop\C#\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\C#\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+C:\Users\Andres\Desktop\C#\appCrudWeb\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+C:\Users\Andres\Desktop\C#\appCrudWeb\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+C:\Users\Andres\Desktop\C#\appCrudWeb\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll

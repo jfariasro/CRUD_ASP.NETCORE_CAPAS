@@ -1,0 +1,37 @@
+﻿@page
+@model CapaPresentacion.Pages.Empleado.IndexModel
+@{
+}
+
+<br />
+<h2>Lista de Empleados</h2>
+<a class='btn btn-primary btn-sm' href='/Empleado/Insertar'>Nuevo Empleado</a>
+<table class='table'>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Empleado</th>
+            <th>F. Nacimiento</th>
+            <th>Edad</th>
+            <th>Salario</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listaEmpleado)
+        {
+            <tr>
+                <td>@item.idempleado</td>
+                <td>@item.razonsocial</td>
+                <td>@item.fechanacimiento</td>
+                <td>@item.edad</td>
+                <td>@item.salario</td>
+                <td>
+                    <a class="btn btn-primary btn-sm" href="/Empleado/Editar?id=@item.idempleado">Editar</a>
+                    <a class="btn btn-danger btn-sm" href="/Empleado/Eliminar?id=@item.idempleado">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
